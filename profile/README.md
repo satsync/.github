@@ -1,12 +1,7 @@
-## Hi there 👋
+# SatSync
 
-<!--
+SatSync aims to improve the time it takes for Satellite-based Emergency Mapping (SEM) of Natural Disasters to be completed. The current ~3 days wait, is time where coordination  for people on the ground is critical after a natural disaster has occured. This project aims to integrate Web3 technologies into the current space sector to improve:
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- A - SEM Activation
+- B - Satellite planning and tasking
+- C - EO Data Oraclisation and Distribution
